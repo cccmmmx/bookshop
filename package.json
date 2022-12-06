@@ -12,7 +12,7 @@
     "bootstrap": "^4.4.1",
     "element-ui": "^2.13.0",
     "popper.js": "^1.16.1",
-    "qs": "^6.9.3",
+    "qs": "^6.9.7",
     "v-distpicker": "^1.2.2",
     "vue": "^2.6.11",
     "vue-router": "^3.1.6",
