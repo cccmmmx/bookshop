@@ -23,7 +23,7 @@
     "@vue/cli-plugin-babel": "^4.2.3",
     "@vue/cli-plugin-router": "^4.2.3",
     "@vue/cli-plugin-vuex": "^4.2.3",
-    "@vue/cli-service": "^4.2.3",
+    "@vue/cli-service": "^5.0.8",
     "babel-plugin-component": "^1.1.1",
     "jquery": "^3.5.0",
     "less": "^3.11.1",
